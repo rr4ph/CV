@@ -1,3 +1,3 @@
 # CV
 Mykyta Podoltsev's personal CV.
-Latest update: August 2026.
+Latest update: October 2026.
